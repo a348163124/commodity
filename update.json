@@ -2,4 +2,9 @@
   "latestVersion": "1.1.1",
   "latestVersionCode": "12",
   "url": ""
+  "releaseNotes": [
+    "- First evolution",
+    "- Second evolution",
+    "- Bug fixes"
+  ]
 }
