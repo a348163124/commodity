@@ -1,11 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.1.1</latestVersion>
-    <latestVersionCode>12</latestVersionCode>
+    <latestVersion>1.1.2</latestVersion>
+    <latestVersionCode>13</latestVersionCode>
     <releaseNotes>
-    - First evolution
-    - Second evolution
-    - Bug fixes
+    - 优化播放器
+    - 新增倍数播放
+    - 修改UI
+    - 修复bug
     </releaseNotes>
   </update>
 </AppUpdater>
