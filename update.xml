@@ -1,13 +1,12 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.1.5</latestVersion>
-    <latestVersionCode>16</latestVersionCode>
+    <latestVersion>1.2.0</latestVersion>
+    <latestVersionCode>17</latestVersionCode>
     <releaseNotes>
     - 注：由于Android5.0以下崩溃较多，且都是底层库的问题，所以这个版本不在支持Android 5.0以下机型，
       如果应用市场看不到有更新，请耐心等待。
-    - 由于横竖屏切换在某些机型上有bug，暂时移除这个功能，等弄好在上架。
-    - 修复看完一集不能播放下一集的问题
-    - 支持横竖屏切换  
+    - 优化播放界面，新增横竖屏切换。
+    - 修复几个崩溃的问题。
     </releaseNotes>
   </update>
 </AppUpdater>
