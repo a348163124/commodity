@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "0.8.3",
+  "apk_file_url": "https://raw.githubusercontent.com/WVector/AppUpdateDemo/master/apk/sample-debug.apk",
+  "update_log": "1，新增一键删除接口。\r\n2，新增升级更新。\r\n
+  "target_size": "5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": false
+}
