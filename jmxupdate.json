@@ -2,7 +2,7 @@
   "update": "Yes",
   "new_version": "1.0.0.5",
   "apk_file_url": "https://github.com/a348163124/commodity/raw/master/JMX--release-1.0.0.5-1220.apk",
-  "update_log": "1，新增一键删除接口。\r\n2，新增升级更新。\r\n"
+  "update_log": "1，新增一键删除接口。\r\n2，新增升级更新。\r\n",
   "target_size": "4.6M",
   "new_md5":"393ed04ddd4e76c1c61b3db9a2f02e4c",
   "constraint": false
