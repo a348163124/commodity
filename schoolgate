@@ -1,0 +1,9 @@
+{
+  "update": "true",
+  "new_version": "1.0.2",
+  "apk_file_url": "https://github.com/a348163124/commodity/raw/master/school.apk",
+  "update_log": "1，修复bug。\r\n",
+  "target_size": "7.98M",
+  "new_md5":"e8298b32bd18f8e4fe53b7768eb67119",
+  "constraint": false
+}
