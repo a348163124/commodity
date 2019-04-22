@@ -1,9 +1,9 @@
 {
-  "update": "Yes",
-  "new_version": "1.0.3",
-  "apk_file_url": "https://github.com/a348163124/commodity/raw/master/school-1.0.3.apk",
+  "update": "No",
+  "new_version": "1.0.4",
+  "apk_file_url": "https://github.com/a348163124/commodity/raw/master/school-1.0.4.apk",
   "update_log": "1，修改UI。\r\n",
   "target_size": "7.98M",
-  "new_md5":"21670b74d38bfaf252c7bed8e58f3c0d",
+  "new_md5":"e2a48e57edd84c3b58f0c5319ce052b6",
   "constraint": false
 }
