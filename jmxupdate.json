@@ -5,5 +5,5 @@
   "update_log": "服务器地址更换。\r\n",
   "target_size": "4.62M",
   "new_md5":"80e8f461632ac5c37138266edf6d8b05",
-  "constraint": false
+  "constraint": true
 }
